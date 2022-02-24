@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MoviesApp
 //
-//  Created by Md Hashif on 2/23/22.
+//  Created by Md Hassan on 2/23/22.
 //
 
 import UIKit
