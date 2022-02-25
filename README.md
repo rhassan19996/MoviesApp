@@ -28,4 +28,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
 I didn't add cocoa class file in the first attempt and when I added the tableview function in the main viewController instead of moviesViewController. I solved it by adding a movieViewController class and moving my functions and variables over from viewController to movieViewController.
-
+There also some issues doenloading and install Pods
