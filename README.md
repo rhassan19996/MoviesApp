@@ -1,3 +1,6 @@
+
+# Flix Movies App
+Movie App - similar to Fandango and Rotten Tomatoes - that lets a user view and scroll through trending list of movies.
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ## Flix Part 2
@@ -18,9 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 I was midway done with the app and I had a major bug. It wouldnt build and i've tried everything to fix the bug. I had to restart the app building from scratch from unit 1 github was helpful for pulling in some of the old files.
-# MoviesApp
-Movie App - similar to Fandango and Rotten Tomatoes - that lets a user view and scroll through trending list of movies.
-# Flix
+
 
 
 
