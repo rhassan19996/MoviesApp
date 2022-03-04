@@ -1,9 +1,6 @@
 //
 //  ViewController.swift
-//  Flixter
-//
-//  Created by Joy Paul on 2/11/19.
-//  Copyright © 2019 Joy Paul. All rights reserved.
+
 //
 
 import UIKit
