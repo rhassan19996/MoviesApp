@@ -1,10 +1,5 @@
 //
 //  MovieDetailsViewController.swift
-//  Flixter
-//
-//  Created by Joy Paul on 2/19/19.
-//  Copyright © 2019 Joy Paul. All rights reserved.
-//
 
 import UIKit
 import AlamofireImage
