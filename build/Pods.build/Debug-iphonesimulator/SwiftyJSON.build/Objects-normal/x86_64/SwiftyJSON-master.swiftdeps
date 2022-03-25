@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "2b5c7d5dac5b456402253794bcaaf54e42576a13e1bf7c28b42ff227eeae4e7b"
+build_start_time: [1646421028, 680037975]
+build_end_time: [1646421035, 302136898]
+inputs:
+  "/Users/mdhashif/Desktop/MoviesApp/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1646415913, 139939785]

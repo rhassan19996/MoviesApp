@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/mdhashif/Desktop/MoviesApp/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/mdhashif/Desktop/MoviesApp/build/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/unextended-module.modulemap",
+    }]
+  }]
+}
